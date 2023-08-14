@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohebsiddique22&label=Profile%20views&color=0e75b6&style=flat" alt="sohebsiddique22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohebsiddique22" alt="sohebsiddique22" /></a> </p>
-
 - 🔭 I’m currently working on **Food delivery web app**
 
 - 🌱 I’m currently learning **Full Stack Java & Web Development**
